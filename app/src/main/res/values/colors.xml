@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greenBlack">#010e03</color>
+    <color name="greenSemiBlack">#021d06</color>
+    <color name="greenGray">#022b09</color>
+    <color name="green">#03390c</color>
+
+    <color name="peso_bajo">#FF6358</color>
+    <color name="peso_normal">#6FFF75</color>
+    <color name="sobrePeso">#FF6358</color>
+    <color name="obesidad">#FB1000</color>
+
+</resources>
